@@ -1,0 +1,29 @@
+{
+  "name": "css-loader-demo",
+  "version": "1.0.0",
+  "description": "手写一个css-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yill625/css-loader-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yill625/css-loader-demo/issues"
+  },
+  "homepage": "https://github.com/Yill625/css-loader-demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "babel-loader": "^8.2.1",
+    "html-webpack-plugin": "^4.5.0",
+    "loader-utils": "^2.0.0",
+    "schema-utils": "^3.0.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
